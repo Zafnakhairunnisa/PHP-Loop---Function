@@ -1,0 +1,29 @@
+[
+    {
+        "id": "66fa6b27dd313",
+        "nama": "Agus",
+        "matematika": "100",
+        "bahasa_indonesia": "90",
+        "bahasa_inggris": "87",
+        "ipa": "98",
+        "rata_rata": 93.75
+    },
+    {
+        "id": "66fa6b50043d5",
+        "nama": "Siwi",
+        "matematika": "78",
+        "bahasa_indonesia": "90",
+        "bahasa_inggris": "98",
+        "ipa": "89",
+        "rata_rata": 88.75
+    },
+    {
+        "id": "66fa6b6cbff30",
+        "nama": "Putri",
+        "matematika": "98",
+        "bahasa_indonesia": "96",
+        "bahasa_inggris": "95",
+        "ipa": "94",
+        "rata_rata": 95.75
+    }
+]
