@@ -26,8 +26,8 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 </head>
 
 <body class="bg-gray-100">
-    <div class="container mx-auto p-6">
-        <h1 class="text-3xl font-bold mb-6">Tambah Siswa</h1>
+    <div class="container mx-auto py-20 px-32">
+        <h1 class="text-3xl font-bold mb-6 text-center">Tambah Siswa</h1>
 
         <form action="tambah.php" method="POST" class="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4">
             <div class="mb-4">
